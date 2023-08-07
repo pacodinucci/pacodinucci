@@ -10,7 +10,7 @@ Soy desarrollador Full stack, con experiencia trabajando en Javascript, React.JS
 ▶Lenguajes: JavaScript (ES7, ES6)| SQL | Python 
 ▶Front-End: React.Js | Tailwind CSS | CSS | Redux
 ▶Back-End: Node.js | Express.Js | API Rest 
-▶Data Base: SEQUELIZE | PostgreSQL 
+▶Data Base: MySQL | PostgreSQL | MongDB
 ▶ Otras Tecnologías : GIT, GitHub
 --------------------------------------------------------------------------------------------------------------
 
