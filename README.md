@@ -1,4 +1,4 @@
-Typescript dev. Always learning.
+Typescript dev. 
 --------------------------------------------------------------------------------------------------------------
 franciscoldinucci@gmail.com
 +54911 6541 9400
